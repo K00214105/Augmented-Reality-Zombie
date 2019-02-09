@@ -8,7 +8,7 @@ I performed an audience analysis of the potential users and did some research on
 I used three different pieces of software to create this project, Abobe PhotoShop, Unity 3D and Vuforia, and Android studio. I used photoshop to create the poster to be used as the image target which features a QR code. When the QR code is scanned it takes the user to a Website landing page which instructs them on how to use the application and provides them with the APK needed to run the application. I used unity 3D to create the application and Android Studio to build the APK.
 
 
-Video Link:
+Video Link: https://youtu.be/wEDBmYUCMPc
 
 APK Link: https://github.com/K00214105/Augmented-Reality-Zombie/raw/master/test.apk
 
