@@ -18,12 +18,15 @@ a img {
     padding-right: 15px;
 }
 
-video {
+iframe {
     max-width: 100%;
+    width: 100%;
+
 }
 
 .poster {
-    max-width: 100%;
+    max-width: 80%;
+    width: 80%;
     max-height: 1200px;
 
 }
