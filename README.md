@@ -5,6 +5,6 @@ Rational:
 
 Video Link:
 
-APK Link:
+APK Link: https://github.com/K00214105/Augmented-Reality-Zombie/raw/master/test.apk
 
-Poster PDF:
+Poster PDF: 
