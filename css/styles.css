@@ -1,3 +1,55 @@
-button{
-    
+body {
+    background-color: gainsboro
+}
+
+.button {
+    width: 250px;
+    margin: auto;
+    display: block;
+    background-color: white;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-style: ridge;
+}
+
+a img {
+    width: 80px;
+    padding-right: 15px;
+}
+
+video {
+    max-width: 100%;
+}
+
+.poster {
+    max-width: 100%;
+    max-height: 1200px;
+
+}
+
+.lead {
+    background-color: white;
+    padding: 15px;
+}
+
+footer {
+    background-color: deepskyblue;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 40px;
+
+}
+
+footer p {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+footer img {
+    width: 80px;
+    display: block;
+    margin: auto;
+    padding-top: 5px;
 }
